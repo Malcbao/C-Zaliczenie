@@ -150,7 +150,25 @@ namespace kolkoikrzyzyk
 
         }
 
-        // tu ENDGAME ZROBIĆ ///
+        void EndGame(EBoxState Winner)
+        {
+            GameIsOn = false;
+            label1.Visible = true;
+            String WinnerText = "";
+            if (Winner == EBoxState.None)
+            {
+                WinnerText = "Draw";
+            }
+            if (Winner == EBoxState.Krz)
+            {
+                WinnerText = "Player 1 Wins!";
+            }
+            if (Winner == EBoxState.Kol)
+            {
+                WinnerText = "Player 2 Wins!";
+            }
+            label1.Text = WinnerText;
+        }
 
         private void label2_Click(object sender, EventArgs e)
         {
