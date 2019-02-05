@@ -77,7 +77,22 @@ namespace kolkoikrzyzyk
    
         EBoxState ActualState;
 
-       /// ZMIANA GRACZA////
+        private void ChangePlayer()
+        {
+            if (ActualState == EBoxState.Krz)
+                ChangePlayer(EBoxState.Kol);
+            else
+                ChangePlayer(EBoxState.Krz);
+        }
+
+        private void ChangePlayer(EBoxState NewState)
+        {
+            ActualState = NewState;
+            if (ActualState == EBoxState.Krz)
+                pictureBox10.Image = kolkoikrzyzyk.Properties.Resources.krzyzyk;
+            else
+                pictureBox10.Image = kolkoikrzyzyk.Properties.Resources.kolko;
+        }
 
 
         public Form1()

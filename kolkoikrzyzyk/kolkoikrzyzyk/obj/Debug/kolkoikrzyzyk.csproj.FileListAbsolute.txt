@@ -18,3 +18,13 @@ C:\Users\Pawel\Desktop\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.Form1
 C:\Users\Pawel\Desktop\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.Properties.Resources.resources
 C:\Users\Pawel\Desktop\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.csproj.GenerateResource.cache
 C:\Users\Pawel\Desktop\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.csproj.CoreCompileInputs.cache
+D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\bin\Debug\kolkoikrzyzyk.exe.config
+D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\bin\Debug\kolkoikrzyzyk.exe
+D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\bin\Debug\kolkoikrzyzyk.pdb
+D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.csprojAssemblyReference.cache
+D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.Form1.resources
+D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.Properties.Resources.resources
+D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.csproj.GenerateResource.cache
+D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.csproj.CoreCompileInputs.cache
+D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.exe
+D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.pdb
