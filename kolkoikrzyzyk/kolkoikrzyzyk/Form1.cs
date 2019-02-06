@@ -12,7 +12,7 @@ namespace kolkoikrzyzyk
 {
     public partial class Form1 : Form
     {
-        enum EBoxState
+        public enum EBoxState
         {
             None, Krz, Kol
         }
@@ -75,7 +75,7 @@ namespace kolkoikrzyzyk
         }
 
    
-        EBoxState ActualState;
+        public EBoxState ActualState;
 
         private void ChangePlayer()
         {
@@ -102,7 +102,7 @@ namespace kolkoikrzyzyk
 
         List<GameBox> Playground = new List<GameBox>();
         byte clicks;
-        bool GameIsOn;
+       public bool GameIsOn;
 
         private void Form1_Load(object sender, EventArgs e)
         {
