@@ -28,3 +28,13 @@ D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.cspr
 D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.csproj.CoreCompileInputs.cache
 D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.exe
 D:\Silniki\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.pdb
+C:\Users\Akutz\Documents\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\bin\Debug\kolkoikrzyzyk.exe.config
+C:\Users\Akutz\Documents\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\bin\Debug\kolkoikrzyzyk.exe
+C:\Users\Akutz\Documents\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\bin\Debug\kolkoikrzyzyk.pdb
+C:\Users\Akutz\Documents\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.csprojResolveAssemblyReference.cache
+C:\Users\Akutz\Documents\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.Form1.resources
+C:\Users\Akutz\Documents\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.Properties.Resources.resources
+C:\Users\Akutz\Documents\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.csproj.GenerateResource.Cache
+C:\Users\Akutz\Documents\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\Akutz\Documents\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.exe
+C:\Users\Akutz\Documents\C-Zaliczenie\kolkoikrzyzyk\kolkoikrzyzyk\obj\Debug\kolkoikrzyzyk.pdb
