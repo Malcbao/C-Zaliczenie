@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kolkoikrzyzyk", "kolkoikrzy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{8DD3C011-2416-4237-94F0-1D34D46BE2B1}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{338EB727-528C-402A-86C7-18B486EF4DF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{8DD3C011-2416-4237-94F0-1D34D46BE2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DD3C011-2416-4237-94F0-1D34D46BE2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DD3C011-2416-4237-94F0-1D34D46BE2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338EB727-528C-402A-86C7-18B486EF4DF7}.Debug|Any CPU.ActiveCfg = Debug
+		{338EB727-528C-402A-86C7-18B486EF4DF7}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,3 +7,4 @@ D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.csproj.Gen
 D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.csproj.CoreCompileInputs.cache
 D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.exe
 D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.pdb
+D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.csprojAssemblyReference.cache
