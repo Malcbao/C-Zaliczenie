@@ -1,0 +1,9 @@
+D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\bin\Release\kolkoikrzyzyk.exe.config
+D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\bin\Release\kolkoikrzyzyk.exe
+D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\bin\Release\kolkoikrzyzyk.pdb
+D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.Form1.resources
+D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.Properties.Resources.resources
+D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.csproj.GenerateResource.cache
+D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.csproj.CoreCompileInputs.cache
+D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.exe
+D:\Silniki\C-za\kolkoikrzyzyk\kolkoikrzyzyk\obj\Release\kolkoikrzyzyk.pdb
